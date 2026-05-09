@@ -1,12 +1,12 @@
-## Hi, welcome to my profile
+## Hi, welcome to my profile 👋
 
-# Who am I?
-I am a student from China, being interested in coding and creating
+# Who am I? 👤
+I am a student from China 🇨🇳, being interested in coding 💻 and creating ✨
 
-# What do I like?
-I like to explore new things since I have entered the university. I like **reading**, **listening to music**, **football**, **running** and **play games**! My favourate game is **Honkai StarRail**. Of course, I want to coding to create something new like a customed game.
+# What do I like? 🤔
+I like to explore new things 🧭 since I have entered the university. I like **reading** 📖, **listening to music** 🎵, **football** ⚽, **running** 🏃‍♂️ and **play games** 🎮! My favourate game is **Honkai StarRail** 🚀. Of course, I also like games of other types!
 
-# How to contact me?
+# How to contact me? 📬
 My email is firefly_of_sky33550336@outlook.com
 
 
